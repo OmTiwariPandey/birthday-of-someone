@@ -1,4 +1,4 @@
-export const TARGET_DATE = new Date("2024-12-20T17:05:00");
+export const TARGET_DATE = new Date("2024-12-21T18:00:00");
 
 export const TIMER_STATES = {
   COUNTING: "counting",
